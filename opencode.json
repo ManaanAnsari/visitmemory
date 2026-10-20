@@ -1,0 +1,8 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "instructions": [
+    "guidelines/MALWARE_CLEANUP_GUIDELINES.md",
+    "guidelines/SECURITY_GUIDELINES.md",
+    "guidelines/MCP_SERVER_GUIDELINES.md"
+  ]
+}

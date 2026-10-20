@@ -1,0 +1,37 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+
+# Environment & Secrets (Global)
+.env
+.env.*
+*.env
+*.local
+
+# Logs
+*.log
+logs/
+
+# Node & Frontend / Mobile
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+.expo/
+.metro-cache/
+
+# iOS & Android Native Artifacts
+ios/Pods/
+ios/build/
+android/.gradle/
+android/app/build/
+
+# Python Backend
+__pycache__/
+*.py[cod]
+.pytest_cache/
+venv/
+.venv/
+backend/venv/
+backend/.venv/
